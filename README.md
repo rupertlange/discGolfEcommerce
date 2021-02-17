@@ -1,11 +1,11 @@
 Hi there!
 
-I built this project using the Django framework (Python), JavaScript, HTML, and CSS.
-It was a fun process for me and was a great look into full-stack development.
+Description: This is a website that I built using the Python based Django framework, JavaScript, HTML, and CSS.
+This is an e-commerce website that allows users and guests to shop for and purchase items. The data is handled by Django's framework
+and stores information on the users, guest shoppers, orders, and products. I implemented PayPal purchasing integration which is handled by
+PayPal's REST API. 
 
 Thanks for reading!
-
-Rupert Lange
 
 Demo:
 
